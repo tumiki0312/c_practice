@@ -1,0 +1,4 @@
+﻿  c_practice.cpp
+C:\Users\tumik\source\repos\c_practice\c_practice\c_practice.cpp(4,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+C:\Users\tumik\source\repos\c_practice\c_practice\c_practice.cpp(6,13): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
+  c_practice.vcxproj -> C:\Users\tumik\source\repos\c_practice\x64\Debug\c_practice.exe
